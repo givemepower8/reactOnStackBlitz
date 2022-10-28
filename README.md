@@ -4,7 +4,7 @@
 
 ## Roadmap
 
-This is a expirentment app to try out the features of stackBlitz, google firebase, react, etc.
+This is a experiment app to try out the features of stackBlitz, google firebase, react, etc.
 
 [Firebase console](https://console.firebase.google.com/)
 
